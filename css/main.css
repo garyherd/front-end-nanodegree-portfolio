@@ -1,51 +1,51 @@
 ﻿.container {
-	margin-top: 5px;
+    margin-top: 5px;
 }
 
 h1, h2, h5, p {
-	font-family: Lato, sans-serif
+    font-family: Lato, sans-serif;
 }
 
 /*--- HEADER & LARGE IMAGE SECTION --- */
 
 h1 {
-	font-weight: 300;
+    font-weight: 300;
 }
 
 h2.proj-list-title {
-	color: #7d97ad;
+    color: #7d97ad;
 }
 
 .header-text {
-	text-align: right;
-	color: #2d3c49;
+    text-align: right;
+    color: #2d3c49;
 }
 
 .icon-container {
-	max-width: 100%;
+    max-width: 100%;
 }
 
 hr {
-	background-color: #7d97ad;
-	height: 5px;
-	margin: 20px 0px;
+    background-color: #7d97ad;
+    height: 5px;
+    margin: 20px 0px;
 }
 
 .proj-list-title {
-	margin-left: 10px;
+    margin-left: 10px;
 }
 
 /*--- PROJECT LIST SECTION ---*/
 
 .projects {
-	text-align: center;
-	color: #2d3c49;
+    text-align: center;
+    color: #2d3c49;
 }
 
 @media screen and (max-width: 991px) {
-	.proj-list-title {
-		text-align: center;
-	}
+    .proj-list-title {
+        text-align: center;
+    };
 }
 
 
