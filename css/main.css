@@ -6,6 +6,11 @@ h1, h2, h5, p {
     font-family: Lato, sans-serif;
 }
 
+.navbar-inverse {
+    background-color: #2d3c49;
+    border-color: #2d3c49;
+}
+
 /*--- HEADER & LARGE IMAGE SECTION --- */
 
 h1 {
@@ -40,6 +45,10 @@ hr {
 .projects {
     text-align: center;
     color: #2d3c49;
+}
+
+.proj-title {
+    margin-bottom: 5px;
 }
 
 @media screen and (max-width: 991px) {
