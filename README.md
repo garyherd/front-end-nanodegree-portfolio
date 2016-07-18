@@ -18,3 +18,10 @@ The goal of this project was to take a given design mock-up, and create a web pa
 * Split the mock-up into columns and rows
 * Bootstrap can expedite layout and can be customized
 * HTML & CSS validators help to catch simple errors
+* Using art direction to change images
+```html
+        <picture>
+          <source srcset="images/responsive-design-sm.png" media="(max-width: 500px)">
+            <img src="images/responsive-design-lrg.png" class="img-responsive center-block" alt="responsive design">
+        </picture>
+```
