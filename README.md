@@ -22,6 +22,6 @@ The goal of this project was to take a given design mock-up, and create a web pa
 ```html
         <picture>
           <source srcset="images/responsive-design-sm.png" media="(max-width: 500px)">
-           <img src="images/responsive-design-lrg.png" class="img-responsive center-block" alt="responsive design">
+          <img src="images/responsive-design-lrg.png" class="img-responsive center-block" alt="responsive design">
         </picture>
 ```
